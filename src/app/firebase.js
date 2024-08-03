@@ -1,6 +1,5 @@
 import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
-
 const firebaseConfig = {
   apiKey: "AIzaSyCSx2ka2cHD4kOVrfk5p4aHzgdg278mylY",
   authDomain: "inventorymanagement-aaf5d.firebaseapp.com",
